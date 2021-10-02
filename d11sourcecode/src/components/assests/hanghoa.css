@@ -1,0 +1,8 @@
+.hanghoa{
+    width:220px; height:300px; border:1px solid blue; margin: 5px; display:inline-block;
+    position:relative;
+}
+.hh-hinh{width:85%; max-height:80%;}
+.hh-ten{font-weight:bolder; color: green;}
+.hh-gia{position:absolute; left: 7px; bottom: 7px; color: blue; font-size:x-large;}
+.hh-mua{position:absolute; right:7px;bottom:7px;}

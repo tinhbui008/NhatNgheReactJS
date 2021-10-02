@@ -1,0 +1,13 @@
+.item-loai {
+  text-align: justify;
+  width: 350px;
+  margin: 5px auto;
+  padding: 5px;
+  border: 1px solid blue;
+  position: relative;
+  border-radius: 5px;
+}
+.item-loai-edit {
+  position: absolute;
+  right: 5px;
+}
